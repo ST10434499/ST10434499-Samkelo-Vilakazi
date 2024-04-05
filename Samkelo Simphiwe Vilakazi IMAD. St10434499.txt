@@ -1,0 +1,358 @@
+| NAME            | AGE |                                   |
+|-----------------|-----|-----------------------------------|
+| Juice WRLD      | 21  | American rapper & singer          |
+| Paul Walker     | 40  | Actor , Star of Fast & Furious    |
+| Aaliyah         | 22  | R&B singer and Actress            |
+| Akhumzi Jezile  | 29  | Actor , Tv Presenter and Producer |
+| Dumi Masilela   | 29  | Actor , Musician & Soccer player  |
+| Mthobeli August | 47  | FM Personality                    |
+| Zahara          | 36  | Singer , Songwriter               |
+
+| Zoleka Mandela   | 43  | Nelson Mandela’s granddaughter |
+|------------------|-----|--------------------------------|
+| Busi Lurayi      | 36  | Actress                        |
+| Siyabonga Zubane | 23  | Upcoming Actor                 |
+
+[Top South African celebrities who died as of 2024 and their causes of
+death -
+Briefly.co.za](https://briefly.co.za/103073-top-south-african-celebrities-died-death.html)
+
+[wikipedia - Search
+(bing.com)](https://www.bing.com/search?q=wikipedia&cvid=dec0a4ac17ac4b37ba369942a6111d88&gs_lcrp=EgZjaHJvbWUqBggBEAAYQDIGCAAQRRg5MgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAuGEAyBggFEAAYQDIGCAYQABhAMgYIBxAuGEAyBggIEAAYQNIBCTExNDAzajBqNKgCALACAA&FORM=ANAB01&PC=LCTS)
+
+[celebrities who died between 21 - 50 years old - Searc36h
+(bing.com)](https://www.bing.com/search?q=+celebrities+who+died+between+21+-+50+years+old&qs=NW_XFC&pq=+celebrities+who+died+between+21+-+50&sk=HS1NW_XFC1&sc=10-37&cvid=B9453917DD9F468083E9DDD55B9D0D23&FORM=QBRE&sp=3&lq=0)
+
+**1.Purpose**
+
+The purpose of a history app is to foster a deeper appreciation and
+understanding of the past teaching today's generation about their origin
+and learning more about traditions. Some people study history with the
+goal of preserving historical memory and ensuring that past events and
+lessons are not forgotten. They may engage in activities such as
+archival research, oral history interviews, or heritage conservation to
+safeguard historical knowledge for future generations.
+
+**Intuitive design**
+
+My design is clear and logical it has a search bar to search an age of
+the famous person who died during period. Ensuring that interface
+elements are clearly visible is paramount in designing an effective and
+user-friendly interface. Users should be able to easily perceive and
+interact with all components on the screen without any confusion or
+difficulty. This involves careful consideration of factors such as
+visual contrast, spacing, and organization. By employing appropriate
+design principles and techniques, designers can enhance the visibility
+of interface elements and optimize the user experience
+
+One key aspect of making interface elements clearly visible is ensuring
+sufficient contrast between the elements and their background. High
+contrast helps users distinguish between different components and makes
+them stand out on the screen. Designers can achieve this by using
+contrasting colors, such as dark text on a light background or vice
+versa. Additionally, utilizing different colors, shapes, or textures for
+interactive elements, such as buttons or links, can further enhance
+their visibility and make them more recognizable to users.
+
+In addition to contrast and spacing, the organization of interface
+elements also influences their visibility. Grouping related elements
+together and organizing them in a logical manner helps users quickly
+locate the information or functionality they need. For example, placing
+navigation menus at the top or sides of the screen and grouping similar
+options or features together can streamline the user's interaction with
+the interface.
+
+**Content prioritisation**
+
+Content prioritization is a critical aspect of designing a successful
+history app, ensuring that users can access the most relevant and
+essential information efficiently. o achieve effective content
+prioritization, I carefully curated the interface elements to focus on
+core features that align with users' needs and preferences. This
+involved conducting thorough user research and usability testing to
+identify the most valuable content and functionalities. By understanding
+users' goals and motivations, I could prioritize elements that
+facilitate their exploration and understanding of historical narratives,
+events, and cultures, content prioritization in my history app revolves
+around including only the necessary interface elements and displaying
+essential content and functionalities that align with users' needs. By
+focusing on clarity, organization, and usability, the app delivers a
+seamless and engaging user experience that empowers users to explore and
+appreciate the richness of human history.
+
+**Legible Text Content**
+
+In designing the text content for my history app, I prioritized
+legibility to ensure that users can easily read and comprehend the
+information presented. I selected a font that is known for its
+readability, with clear letterforms and balanced proportions. Also, I
+ensured the text size is large enough to facilitate comfortable reading
+for users of all ages and visual abilities. By employing a font that is
+easy to read and optimizing the text size, users can engage with the
+content without experiencing eyestrain or difficulty in deciphering the
+information. This approach enhances the overall usability of the app,
+allowing users to focus on learning and exploring historical narratives,
+events, and cultures without distraction. Moreover, clear and legible
+text content contributes to a positive user experience, fostering
+increased engagement and satisfaction with the app.
+
+**Make Interface Elements Clearly Visible**
+
+Ensuring interface elements are clearly visible is paramount for user
+experience. Adequate spacing between components prevents clutter and
+aids navigation. Each element should be easily discernible, avoiding
+overcrowding or excessive gaps. User-friendly design prioritizes
+legibility, guiding users intuitively through the interface. Effective
+spacing and visibility optimize usability, enhancing engagement and
+facilitating efficient interaction.
+
+**Hand Position Controls**
+
+The hand position controls are strategically placed to ensure easy
+access for users. Buttons are positioned within reach, allowing users to
+interact with them comfortably without straining or adjusting their hand
+position. This thoughtful arrangement enhances user convenience and
+facilitates seamless navigation and interaction with the interface.
+
+**Images**
+
+The choice of including a drawing of Khoisan people in my history app
+was deliberate and serves multiple purposes. Firstly, it aims to provide
+visual representation and cultural context to the content related to the
+Khoisan people, who are indigenous to Southern Africa. Placing the image
+in a prominent location within the app ensures that users encounter it
+when exploring relevant historical narratives or articles. Moreover, the
+inclusion of the drawing of Khoisan people not only serves to educate
+users about the specific culture and heritage of the Khoisan people but
+also contributes to fostering inclusivity and diversity within the
+history app. By featuring images that represent a range of cultures and
+perspectives, the app promotes a more comprehensive and inclusive
+understanding of history, acknowledging the contributions and
+experiences of diverse communities around the world. Additionally, the
+deliberate placement of the image at a prominent location within the app
+underscores its significance and importance in the narrative of human
+history, highlighting the role of indigenous peoples in shaping the
+cultural landscape of Southern Africa and beyond. Furthermore, by
+providing visual representation of the Khoisan people and their way of
+life, the app invites users to engage with and learn from the rich
+tapestry of human experiences, fostering empathy, understanding, and
+appreciation for different cultures and histories.
+
+The decision to place an image at the top of a webpage, document, or
+interface is often strategic and serves various purposes. In this
+instance, positioning the image at the top carries significance in terms
+of visual hierarchy, user engagement, and storytelling. One primary
+reason for choosing to place the image at the top is to immediately
+capture the viewer's attention. The top portion of a page is the first
+area that users typically see upon loading the content, making it a
+prime location for grabbing their interest. By placing the image in this
+prominent position, it serves as a visual hook, enticing users to
+explore further and engage with the content below. Moreover, the top
+placement allows the image to act as a focal point, setting the tone and
+theme for the rest of the content. Whether it is a striking photograph,
+an illustrative graphic, or a captivating artwork, the image at the top
+sets the visual context and establishes the overall aesthetic of the
+page. Additionally, the top position ensures that the image is
+immediately visible without the need for scrolling, maximizing its
+impact and accessibility. This placement is particularly effective for
+conveying key messages, highlighting brand identity, or introducing
+important visual elements. Furthermore, placing the image at the top
+creates a cohesive and visually appealing layout, contributing to a
+positive user experience. The strategic placement of the image at the
+top not only enhances the aesthetic appeal of the content but also
+reinforces its relevance and significance. Overall, by carefully
+choosing to position the image at the top, one can effectively capture
+the viewer's attention, set the visual tone, and create a compelling
+user experience. 1. Create a New GitHub Repository:
+
+Go to the GitHub website (<https://github.com/>) and sign in to your
+account.
+
+Click on the "+" icon in the top right corner and select "New
+repository".
+
+Give your repository a name (your student number and name – in one
+word), add a description (use IMAD5112 Assignment 1) and choose public.
+
+Click on the "Create repository" button.
+
+2\. Initialise the Repository with a README File:
+
+After creating the repository, you'll see an option to "Initialize this
+repository with a README". Check this option to create a README file.
+
+Click on the "Create repository" button to finalize the creation of the
+repository.
+
+3\. Commit and Push Your Project Files to the GitHub Repository:
+
+In Android Studio, go to VCS (Version Control System) -> Import into
+Version Control -> Share Project on GitHub.
+
+Log in to your GitHub account if prompted, and select the repository you
+created earlier.
+
+Click on the "Share" button to push your project files to the GitHub
+repository.
+
+4\. Regularly Commit and Push Your Code as You Make Progress:
+
+After the initial push, continue making changes to your project in
+Android Studio.
+
+Whenever you make significant progress or changes, commit your changes
+locally in Android Studio using VCS -> Commit Changes.
+
+Once committed, push your changes to the GitHub repository using VCS ->
+Git -> Push.
+
+**Testing and Automated Testing**:
+
+1\. Conduct Manual Testing:
+
+Manually test your app to ensure it functions seamlessly and offers an
+enjoyable educational experience for learners.
+
+To test various features and user interactions do the following:
+
+> 1\. Create a New Test Class:
+>
+> In your Android project, navigate to the tests directory (or create it
+> if it doesn't exist).
+>
+> Create a new Kotlin file for your test class. Name it appropriately to
+> indicate what component or functionality you are testing.
+>
+> 2\. Write Test Methods:
+>
+> Inside the test class, write test methods like the example below.
+>
+> 3\. Use assertions to verify the expected behaviour of your code.
+>
+> 4\. Run the Tests:
+>
+> Run the tests using the testing framework's tools provided by Android
+> Studio or through the command line.
+
+Sample of a test class using JUnit:
+
+import org.junit.Assert.\*
+
+import org.junit.Test
+
+class MyUnitTest {
+
+@Test
+
+fun testWhenStatement() {
+
+// Test case for a when statement
+
+val result = when (25) {
+
+21 -> "Some Body, famous for …, died at this age" // use your own
+wording (copy from your code) – only need 3 ages from your code for the
+test here.
+
+34 -> "Another Some Body, famous for ……., died at this age"
+
+63 -> "Someone Else, famous for …..., died at this age"
+
+else -> "Nobody famous known to me died at this age"
+
+}
+
+assertEquals("Nobody famous known to me died at this age", result)
+
+}
+
+}
+
+2\. GitHub Actions for Automated Testing:
+
+Set up GitHub Actions to automatically run tests and build your code
+whenever changes are pushed to the repository.
+
+Create a GitHub Actions workflow (.github/workflows/tests.yml) to run
+tests automatically on every push:
+
+Create a .github/workflows directory in your project repository.
+
+Inside this directory, create YAML files defining your GitHub Actions
+workflows for testing and building.
+
+**Sample GitHub Actions Workflow for Testing (tests.yml):**
+
+name: Run Tests
+
+on: \[push\]
+
+jobs:
+
+test:
+
+runs-on: ubuntu-latest
+
+steps:
+
+\- name: Set up JDK
+
+uses: actions/setup-java@v2
+
+with:
+
+distribution: 'adopt'
+
+java-version: '11'
+
+\- name: Check out code
+
+uses: actions/checkout@v2
+
+\- name: Build and test
+
+run: ./gradlew test
+
+Set Up Automated Build:
+
+Create a GitHub Actions workflow (.github/workflows/build.yml) to build
+the APK automatically on every push.
+
+**Sample GitHub Actions Workflow for Building (build.yml):**
+
+name: Build APK
+
+on: \[push\]
+
+jobs:
+
+build:
+
+runs-on: ubuntu-latest
+
+steps:
+
+\- name: Set up JDK
+
+uses: actions/setup-java@v2
+
+with:
+
+distribution: 'adopt'
+
+java-version: '11'
+
+\- name: Check out code
+
+uses: actions/checkout@v2
+
+\- name: Build APK
+
+run: ./gradlew assembleDebug
+
+Test your workflows by pushing changes to your repository and observing
+the actions running in the "Actions" tab on GitHub.
+
+**4.Youtube Video**
+
+**https://youtu.be/Ot7Iu7zI3EQ**
